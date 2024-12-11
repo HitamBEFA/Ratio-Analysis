@@ -51,7 +51,7 @@ def extract_questions(pdf_path):
 
 # Streamlit App
 def main():
-    st.title("Backend PDF Quiz Generator")
+    st.title("BEFA Quiz Generator")
 
     st.write("Extracting quiz questions from the provided PDF...")
 
